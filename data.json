@@ -1,0 +1,72 @@
+{
+    "purchase_history": [
+        {
+            "name": "milk",
+            "quantity": "1 pcs",
+            "purchase_date": "2025-11-01",
+            "expiry_date": "2025-11-08"
+        },
+        {
+            "name": "milk",
+            "quantity": "1 pcs",
+            "purchase_date": "2025-11-08",
+            "expiry_date": "2025-11-15"
+        },
+        {
+            "name": "white bread",
+            "quantity": "1 pcs",
+            "purchase_date": "2025-11-10",
+            "expiry_date": "2025-11-14"
+        },
+        {
+            "name": "eggs",
+            "quantity": "12 pcs",
+            "purchase_date": "2025-11-09",
+            "expiry_date": "2025-11-20"
+        },
+        {
+            "name": "eggs",
+            "quantity": "1.0 pcs",
+            "purchase_date": "2025-11-19",
+            "expiry_date": "2025-11-19"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1.0 kg",
+            "purchase_date": "2025-11-26",
+            "expiry_date": "2025-11-28"
+        },
+        {
+            "name": "chocolate",
+            "quantity": "1.0 pcs",
+            "purchase_date": "2025-11-26",
+            "expiry_date": "2025-11-27"
+        },
+        {
+            "name": "milk",
+            "quantity": "0.1 ltr",
+            "purchase_date": "2025-11-26",
+            "expiry_date": "2025-11-28"
+        }
+    ],
+    "current_list": [
+        {
+            "name": "butter",
+            "quantity": "1 pack",
+            "purchase_date": "2025-11-02",
+            "expiry_date": "2025-12-01"
+        },
+        {
+            "name": "eggs",
+            "quantity": "1.0 pcs",
+            "purchase_date": "2025-11-19",
+            "expiry_date": "2025-11-19"
+        },
+        {
+            "name": "sugar",
+            "quantity": "1.0 kg",
+            "purchase_date": "2025-11-26",
+            "expiry_date": "2025-11-28"
+        }
+    ]
+}
